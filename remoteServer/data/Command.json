@@ -1,0 +1,19 @@
+{
+  "1": "LoginTask",
+  "2": "LoadJSTask",
+  "3": "LoadCommandConfigTask",
+  "4": "LoadUserConfigTask",
+  "18": "GetClientListTask",
+  "20": "TransformTask",
+  "22": "SendToClientTask",
+
+  "10000": "GetQATestAccountTask",
+
+  "20000": "GetLocalVersion",
+  "20002": "SaveLocalVersion",
+
+  "30000": "UpdateFilesToSVN",
+
+  "40000":"SaveGameLog",
+  "40002":"GetGameLog"
+}
